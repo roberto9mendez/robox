@@ -1,5 +1,57 @@
-.App {
+
+/*.App {
   text-align: center;
+  height: 100%;
+  min-height: 100vh;
+}*/
+
+.kitt-content {
+    max-width: 900px;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+
+.ssmall { 
+  font-size: 0.5em;
+}
+
+.fill-window {
+    height: 100%;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+.nred:hover {
+  background-color: #ff5f58;
+}
+
+.nyellow:hover {
+  background-color: #ffbd2e;
+}
+
+.ngreen:hover {
+  background-color: #28c941;
+}
+
+.backciano {
+  background-color: #17E6C8;
+}
+
+.backgreen {
+  background-color: #28c941;
+}
+
+.backorange {
+  background-color: #ff6000;
+}
+
+.backyellow {
+  background-color: #ffd000;
 }
 
 .App-logo {
